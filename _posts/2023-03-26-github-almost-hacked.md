@@ -1,0 +1,1 @@
+On Friday, GitHub almost got hacked due to a leaked RSA-SSH key that leaked accidentally to the public. If someone malicious was able to attain this key, they could be able to decrypt any information between a user and GitHub servers.
